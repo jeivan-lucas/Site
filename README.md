@@ -1,6 +1,6 @@
 <h1>Desafio Descubra o Número</h1>
 
-<h2>🔖*Sobre</h2>
+<h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
 ## 🚀 Tecnologias
@@ -12,5 +12,5 @@
 
 # Colaborador
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/165590565?v=4" width=100><br><sub>Jeivan Lucas Araújo</sub>](https://github.com/jeivan-lucas)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/165590565?v=4" width=110><br><sub>Jeivan Lucas Araújo</sub>](https://github.com/jeivan-lucas)
 
